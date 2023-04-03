@@ -140,3 +140,10 @@ cd ~/LSSR_zephyr
 west build -p auto -b nucleo_wl55jc
 west flash --runner jlink
 ```
+
+## Working in VSCode
+
+```sh
+code .
+```
+
